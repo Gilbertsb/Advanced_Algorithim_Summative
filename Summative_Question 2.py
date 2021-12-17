@@ -36,6 +36,17 @@ def function_grading():                            #defining function
 print(function_grading())
 
 
+#Enter number of student first and then provde all grades for them
+#ex:
+#Test it with below data
+
+#Number of students: 3
+#Enter grade 0: 23
+#Enter grade 0: 44
+#Enter grade 0: 34
+
+
+
 # In[ ]:
 
 
